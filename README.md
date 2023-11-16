@@ -2,7 +2,6 @@
 
 ## DATE : 28/10/2023
 
-
 ## AIM:
 To Perform Data Visualization on the given dataset and save the data to a file.
 
